@@ -1,10 +1,5 @@
 # Retail Sales Prediction
-    A picture speaks thousand of words. In business perspective the large scale of data to be processed and analysed to make sense. 
-Now, the retailers expect a 360 degree view of their customers so that they don't miss them in this competetive market. Retailers offer,
-promotions, offers, and free gifts to meet their marketing and sales goals. Since the majority of Retailers have their retail stores 
-spread in many geographical areas, it's hard to comprehend the condition of the market. Machine Learning application enables these
-retailers to organize their purpose of sales and marketing in a better way with historical data to forcast and predict the future sales.
-It also enables the retailers with analytics and valuable insights, specifically to determine the customer with desired products, in time and 
+    A picture speaks thousand of words. In business perspective the large scale of data to be processed and analysed to make sense.Now, the retailers expect a 360 degree view of their customers so that they don't miss them in this competetive market. Retailers offer, promotions, offers, and free gifts to meet their marketing and sales goals. Since the majority of Retailers have their retail stores spread in many geographical areas, it's hard to comprehend the condition of the market. Machine Learning application enables these retailers to organize their purpose of sales and marketing in a better way with historical data to forcast and predict the future sales. It also enables the retailers with analytics and valuable insights, specifically to determine the customer with desired products, in time and 
 in a particular store.
     
 
