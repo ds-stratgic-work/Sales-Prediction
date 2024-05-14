@@ -36,6 +36,6 @@
 ### Needs of this project
 - frontend developers
 
-Github Link: https://github.com/ds-stratgic-work/Sales-Prediction.git
+Ref Articles: https://medium.com/@anjaliramesh/forecasting-walmart-sales-with-machine-learning-2a1249c55c9c 
 
 
